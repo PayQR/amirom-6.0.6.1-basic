@@ -1,0 +1,438 @@
+%%driver_title%en%%
+PayQR
+%%driver_title%ru%%
+PayQR
+
+%%driver_button_caption%en%%
+PayQR
+%%driver_button_caption%ru%%
+PayQR
+
+%%payqr_hook_handler_url%en%%
+PayQR hook handler url
+%%payqr_hook_handler_url%ru%%
+URL PayQR обработчика
+
+%%payqr_log_url%en%%
+PayQR log url
+%%payqr_log_url%ru%%
+URL PayQR логов
+
+%%payqr_button_show_on_cart%en%%
+Show PayQR button on Cart page
+%%payqr_button_show_on_cart%ru%%
+Показывать кнопку PayQR на страничке корзины
+
+%%payqr_button_show_on_product%en%%
+Show PayQR button on Product page
+%%payqr_button_show_on_product%ru%%
+Показывать кнопку PayQR на страничке карточки товара
+
+%%payqr_button_show_on_category%en%%
+Show PayQR button on Category page
+%%payqr_button_show_on_category%ru%%
+Показывать кнопку PayQR на страничке категории товаров
+
+%%payqr_cart_button_color%en%%
+PayQR button color on Cart page
+%%payqr_cart_button_color%ru%%
+Цвет кнопки на странице корзины товаров
+
+%%payqr_product_button_color%en%%
+PayQR button color on Product page
+%%payqr_product_button_color%ru%%
+Цвет кнопки на странице товара 
+
+%%payqr_category_button_color%en%%
+PayQR button color on Category page
+%%payqr_category_button_color%ru%%
+Цвет кнопки на странице категории товара
+
+
+%%payqr_cart_button_form%en%%
+PayQR button form on Cart page
+%%payqr_cart_button_form%ru%%
+Форма кнопки на странице корзины товаров
+
+%%payqr_product_button_form%en%%
+PayQR button form on Product page
+%%payqr_product_button_form%ru%%
+Форма кнопки на странице товара 
+
+%%payqr_category_button_form%en%%
+PayQR button form on Category page
+%%payqr_category_button_form%ru%%
+Форма кнопки на странице категории товара
+
+
+%%payqr_cart_button_shadow%en%%
+PayQR button shadow on Cart page
+%%payqr_cart_button_shadow%ru%%
+Тень кнопки на странице корзины товаров
+
+%%payqr_product_button_shadow%en%%
+PayQR button shadow on Product page
+%%payqr_product_button_shadow%ru%%
+Тень кнопки на странице товара
+
+%%payqr_category_button_shadow%en%%
+PayQR button shadow on Category page
+%%payqr_category_button_shadow%ru%%
+Тень кнопки на странице категории товара
+
+
+%%payqr_cart_button_gradient%en%%
+PayQR button gradient on Cart page
+%%payqr_cart_button_gradient%ru%%
+Градиент кнопки на странице корзины товаров
+
+%%payqr_product_button_gradient%en%%
+PayQR button gradient on Product page
+%%payqr_product_button_gradient%ru%%
+Градиент кнопки на странице товара
+
+%%payqr_category_button_gradient%en%%
+PayQR button gradient on Category page
+%%payqr_category_button_gradient%ru%%
+Градиент кнопки на странице категории товара
+
+
+%%payqr_cart_button_font_trans%en%%
+PayQR button text font trans on Cart page
+%%payqr_cart_button_font_trans%ru%%
+Размер шрифта кнопки на странице корзины товаров
+
+%%payqr_product_button_font_trans%en%%
+PayQR button text font trans on Product page
+%%payqr_product_button_font_trans%ru%%
+Размер шрифта кнопки на странице товара
+
+%%payqr_category_button_font_trans%en%%
+PayQR button text font trans on Category page
+%%payqr_category_button_font_trans%ru%%
+Размер шрифта кнопки на странице категории товара
+
+
+%%payqr_cart_button_font_width%en%%
+PayQR button text font width on Cart page
+%%payqr_cart_button_font_width%ru%%
+Ширина шрифта кнопки на странице корзины товаров
+
+%%payqr_product_button_font_width%en%%
+PayQR button text font width on Product page
+%%payqr_product_button_font_width%ru%%
+Ширина шрифта кнопки на странице товара
+
+%%payqr_category_button_font_width%en%%
+PayQR button text font width on Category page
+%%payqr_category_button_font_width%ru%%
+Ширина шрифта кнопки на странице категории товара
+
+
+%%payqr_cart_button_text_case%en%%
+PayQR button text case on Cart page
+%%payqr_cart_button_text_case%ru%%
+Регистр текста кнопки на странице корзины товара
+
+%%payqr_product_button_text_case%en%%
+PayQR button text case on Product page
+%%payqr_product_button_text_case%ru%%
+Регистр текста кнопки на странице товара
+
+%%payqr_category_button_text_case%en%%
+PayQR button text case on Category page
+%%payqr_category_button_text_case%ru%%
+Регистр текста кнопки на страница категории товара
+
+
+%%payqr_cart_button_height%en%%
+PayQR button height on Cart page
+%%payqr_cart_button_height%ru%%
+Высота кнопки на странице корзины товаров
+
+%%payqr_product_button_height%en%%
+PayQR button height on Product page 
+%%payqr_product_button_height%ru%%
+Высота кнопки на странице товара 
+
+%%payqr_category_button_height%en%%
+PayQR button height on Category page
+%%payqr_category_button_height%ru%%
+Высота кнопки на странице категории товара 
+
+
+%%payqr_cart_button_width%en%%
+PayQR button width on Cart page
+%%payqr_cart_button_width%ru%%
+Ширина кнопки на странице корзины товаров
+
+%%payqr_product_button_width%en%%
+PayQR button width on Product page
+%%payqr_product_button_width%ru%%
+Ширина кнопки на странице товара
+
+%%payqr_category_button_width%en%%
+PayQR button width on Category page
+%%payqr_category_button_width%ru%%
+Ширина кнопки на странице категории товара 
+
+
+%%payqr_merchant_id%en%%
+PayQR merchant ID
+%%payqr_merchant_id%ru%%
+PayQR merchant ID
+
+%%payqr_merchant_secret_key_in%en%%
+PayQR SecretKeyIn
+%%payqr_merchant_secret_key_in%ru%%
+PayQR SecretKeyIn
+
+%%payqr_merchant_secret_key_out%en%%
+PayQR SecretKeyOut
+%%payqr_merchant_secret_key_out%ru%%
+PayQR SecretKeyOut
+
+
+%%payqr_status_creatted%en%%
+PayQR order status creatted
+%%payqr_status_creatted%ru%%
+Статус PayQR заказа "создан"
+
+%%payqr_status_paid%en%%
+PayQR order status paid
+%%payqr_status_paid%ru%%
+Статус PayQR заказа "оплачен"
+
+%%payqr_status_canceled%en%%
+PayQR order status canceled
+%%payqr_status_canceled%ru%%
+Статус PayQR заказа "отменен"
+
+%%payqr_status_completed%en%%
+PayQR order status completed
+%%payqr_status_completed%ru%%
+Статус PayQR заказа "завершен"
+
+
+%%payqr_require_firstname%en%%
+Require user firstname
+%%payqr_require_firstname%ru%%
+Запрашивать имя покупателя
+
+%%payqr_require_lastname%en%%
+Require user lastname
+%%payqr_require_lastname%ru%%
+Запрашивать фамилию покупателя
+
+%%payqr_require_middlename%en%%
+Require user middlename
+%%payqr_require_middlename%ru%%
+Запрашивать отчество покупателя 
+
+%%payqr_require_phone%en%%
+Require user phone
+%%payqr_require_phone%ru%%
+Запрашивать номер телефона покупателя
+
+%%payqr_require_email%en%%
+Require user email
+%%payqr_require_email%ru%%
+Запрашивать заполнения e-mail покупателем
+
+%%payqr_require_delivery%en%%
+Require user delivery
+%%payqr_require_delivery%ru%%
+Запрашивать адрес доставки
+
+%%payqr_require_deliverycases%en%%
+Require user deliverycases
+%%payqr_require_deliverycases%ru%%
+Могут ли быть в магазине способы доставки
+
+%%payqr_require_pickpoints%en%%
+Require user pickpoints
+%%payqr_require_pickpoints%ru%%
+Могут ли быть в магазине точки самовывоза
+
+%%payqr_require_promo%en%%
+Require user promo
+%%payqr_require_promo%ru%%
+Предлагать ввести промо-идентификатор
+
+%%payqr_promo_code%en%%
+Require user promo
+%%payqr_promo_code%ru%%
+Текстовое название промо-идентификатора
+
+%%payqr_ocreating_message_text%en%%
+Message to create order
+%%payqr_ocreating_message_text%ru%%
+Сообщение при создании заказа
+
+%%payqr_ocreating_message_imageurl%en%%
+URL of the image to create order
+%%payqr_ocreating_message_imageurl%ru%%
+URL изображения при создании заказа
+
+%%payqr_ocreating_message_url%en%%
+URL links to create order
+%%payqr_ocreating_message_url%ru%%
+URL ссылка при создании заказа
+
+%%payqr_paid_message_text%en%%
+Message when you pay the order
+%%payqr_paid_message_text%ru%%
+Сообщение при оплате заказ
+
+%%payqr_paid_message_imageurl%en%%
+Image URL when you pay
+%%payqr_paid_message_imageurl%ru%%
+URL изображения при оплате заказа
+
+%%payqr_paid_message_url%en%%
+URL links in the payment order
+%%payqr_paid_message_url%ru%%
+URL ссылка при оплате заказ
+
+%%payqr_reverted_message_text%en%%
+Message when you return funds
+%%payqr_reverted_message_text%ru%%
+Сообщение при возрате денежных средств
+
+%%payqr_reverted_message_imageurl%en%%
+URL of the image on return of cash
+%%payqr_reverted_message_imageurl%ru%%
+URL изображения при возрате денежных средств
+
+%%payqr_reverted_message_url%en%%
+URL links when you return funds
+%%payqr_reverted_message_url%ru%%
+URL ссылка при возрате денежных средств
+
+%%yes%en%%
+Yes
+%%yes%ru%%
+Да
+
+%%no%en%%
+No
+%%no%ru%%
+Нет
+
+%%default%en%%
+Default
+%%default%ru%%
+По умолчанию
+
+%%green%en%%
+Green
+%%green%ru%%
+Зеленый
+
+%%red%en%%
+Red
+%%red%ru%%
+Красный
+
+%%blue%en%%
+Blue
+%%blue%ru%%
+Синий
+
+%%orange%en%%
+Orange
+%%orange%ru%%
+Оранжевый
+
+%%sharp%en%%
+Sharp
+%%sharp%ru%%
+Без округления
+
+%%rude%en%%
+Rude
+%%rude%ru%%
+Минимальное округление
+
+%%soft%en%%
+Soft
+%%soft%ru%%
+Мягкое округление
+
+%%sleek%en%%
+Sleek
+%%sleek%ru%%
+Значительное округление
+
+%%oval%en%%
+Oval
+%%oval%ru%%
+Максимальное округление
+
+%%deny%en%%
+Deny
+%%deny%ru%%
+Не запрашивать
+
+%%required%en%%
+Required
+%%required%ru%%
+Запрашивать
+
+%%shadow%en%%
+Shadow
+%%shadow%ru%%
+Включена
+
+%%noshadow%en%%
+No shadow
+%%noshadow%ru%%
+Отключена
+
+%%flat%en%%
+Flat
+%%flat%ru%%
+Отключен
+
+%%gradient%en%%
+Gradient
+%%gradient%ru%%
+Включен
+
+%%small%en%%
+Small
+%%small%ru%%
+Мелко
+%%medium%en%%
+Medium
+%%medium%ru%%
+Средне
+%%large%en%%
+Large
+%%large%ru%%
+Крупно
+
+%%normal%en%%
+Normal
+%%normal%ru%%
+Отключен
+
+%%bold%en%%
+Bold
+%%bold%ru%%
+Включен
+
+%%lowercase%en%%
+Lowercase
+%%lowercase%ru%%
+Нижинй
+
+%%standartcase%en%%
+Standartcase
+%%standartcase%ru%%
+Стандартный
+
+%%uppercase%en%%
+Uppercase
+%%uppercase%ru%%
+Верхний
