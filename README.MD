@@ -57,7 +57,14 @@ include_once __DIR__ . '/eshop/pay_drivers/payqr/categorycarthook.php';
 ##setvar @payqr_button=initPayQRButton('category', itemid, user_id)##
 ##payqr_button##
 ```
-•	Для шаблона "_eshop_item_list.tpl" ищем по ключевому слову  "eshop-item-small__content" и вставляем следующие строки в контейнер <div class="ключевое слово">….сюда вставляем следующие строки</div> (данными изменениями влияем на отображение кнопки в категории товара)
+•	Для шаблона "_eshop_item_list.tpl" ищем по ключевому слову  "eshop-item-small__content" и вставляем следующие строки в контейнер 
+```
+<div class="ключевое слово">
+….сюда вставляем следующие строки
+</div>
+```
+ (данными изменениями влияем на отображение кнопки в категории товара)
+
 ```
 ##setvar @user_id=getCurrentUser()##
 ##setvar @payqr_button=initPayQRButton('category', itemid, user_id)##
@@ -76,9 +83,10 @@ include_once __DIR__ . '/eshop/pay_drivers/payqr/categorycarthook.php';
 Настройка кнопки PayQR
 
 Переходим в раздел "Сервис" -> "Драйвер платежных систем". В списке драйверов вы увидите название драйвера "payqr" и нажмите на кнопку "редактировать". После чего вы сможете настроить кнопку и внести все необходимые реквизиты:
-•	PayQR код магазина;
-•	PayQR secret key in;
-•	PayQR secret key out;
+  1. PayQR код магазина;
+  2. PayQR secret key in;
+  3. PayQR secret key out;
+
 Перечисленные опции вы найдете в личном кабинете по адресу https://payqr.ru/biz/ в разделе "Магазины" -> "Взаимодействие".
 Так же в разделе "Взаимодействие" внесите в поле "URL для уведомлений" следующую строчку:
 ```
